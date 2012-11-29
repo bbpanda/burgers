@@ -1,5 +1,6 @@
-steak
-cheese
+steack
+salade
+tomates
 oignons
 cornichons
 ketchup
